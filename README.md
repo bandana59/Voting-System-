@@ -43,15 +43,4 @@ Perfect for beginners learning C file handling, structures, and menu-driven prog
 
 ---
 
-## 📷 Demo Screenshot
 
-> _Insert a terminal screenshot here if you want!_
-
----
-
-## 🚀 How to Run
-
-1. **Clone this repo**  
-   ```bash
-   git clone https://github.com/yourusername/voting-system-c.git
-   cd voting-system-c
